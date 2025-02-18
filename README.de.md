@@ -16,7 +16,7 @@ N8N-AI-Agent-Name
 -   [Anforderungen](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Zusammenfassung**
+**Executive Summary**
 
 Erstellen und aktualisieren Sie Datensätze in einem Airtable aus einem Chat -Eingang in einem N8N -Workflow mit einem AI -Agenten.
 
