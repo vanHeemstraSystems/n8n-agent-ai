@@ -11,7 +11,7 @@ n8n-ai-agent-name
 -   [主持人](./HOSTS.md)
 -   [圖像](./IMAGES.md)
 -   [nx](./NX.md)
--   [Podman](./PODMAN.md)
+-   [Subman](./PODMAN.md)
 -   [參考](./REFERENCES.md)
 -   [要求](./REQUIREMENTS.md)
 -   [遙測](./TELEMETRY.md)
@@ -24,7 +24,7 @@ n8n-ai-agent-name
 
 ## 100-簡介
 
-See [README.md](./100/README.md)
+看[README.md](./100/README.md)
 
 ## 200-要求
 
@@ -34,6 +34,6 @@ See [README.md](./100/README.md)
 
 看[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400-結論
 
 看[README.md](./400/README.md)
