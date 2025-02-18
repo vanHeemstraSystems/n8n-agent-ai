@@ -1,6 +1,6 @@
 N8n-ai-agent-naam
 
-# N8n ai agent
+# N8N AI Agent
 
 > Sluglijn
 
