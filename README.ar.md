@@ -8,7 +8,7 @@ N8N-AAI-AAGENT-NAME
 -   [الوثائق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
 -   [فتحة](./HATCH.md)
--   [المضيفين](./HOSTS.md)
+-   [Hosts](./HOSTS.md)
 -   [الصور](./IMAGES.md)
 -   [NX](./NX.md)
 -   [رجل فرعي](./PODMAN.md)
@@ -16,7 +16,7 @@ N8N-AAI-AAGENT-NAME
 -   [متطلبات](./REQUIREMENTS.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
-**ملخص تنفيذي**
+**Executive Summary**
 
 قم بإنشاء وتحديث السجلات في Airtable من إدخال الدردشة في سير عمل N8N مع وكيل AI.
 
@@ -30,7 +30,7 @@ N8N-AAI-AAGENT-NAME
 
 يرى[README.md](./200/README.md)
 
-## 300 - بناء تطبيقنا
+## 300 - Building Our Application
 
 يرى[README.md](./300/README.md)
 
