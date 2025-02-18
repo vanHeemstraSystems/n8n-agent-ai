@@ -18,7 +18,7 @@ N8N-AI-AGENT-NAME
 
 **कार्यकारी सारांश**
 
-AI एजेंट के साथ N8N वर्कफ़्लो में एक चैट इनपुट से Airtable में रिकॉर्ड बनाएं और अपडेट करें।
+Create and update records in an Airtable from a Chat input in an n8n workflow with an AI Agent.
 
 के साथ उत्पन्न[रिट्र](https://app.rytr.me)
 
