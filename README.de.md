@@ -1,6 +1,6 @@
-Repository-Namen
+N8N-AI-Agent-Name
 
-# Repository -Name
+# N8N AI Agent
 
 > Slugline
 
@@ -18,7 +18,7 @@ Repository-Namen
 
 **Zusammenfassung**
 
-Text
+Erstellen und aktualisieren Sie Datensätze in einem Airtable aus einem Chat -Eingang in einem N8N -Workflow mit einem AI -Agenten.
 
 Erzeugt mit[Ritr](https://app.rytr.me)
 
