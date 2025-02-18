@@ -10,7 +10,7 @@ n8n-ai-agent-name
 -   [孵化](./HATCH.md)
 -   [主持人](./HOSTS.md)
 -   [图像](./IMAGES.md)
--   [Nx](./NX.md)
+-   [nx](./NX.md)
 -   [Subman](./PODMAN.md)
 -   [参考](./REFERENCES.md)
 -   [要求](./REQUIREMENTS.md)
@@ -18,13 +18,13 @@ n8n-ai-agent-name
 
 **执行摘要**
 
-Create and update records in an Airtable from a Chat input in an n8n workflow with an AI Agent.
+通过与AI代理在N8N工作流程中的聊天输入中创建和更新记录。
 
 生成[ritr](https://app.rytr.me)
 
 ## 100-简介
 
-See [README.md](./100/README.md)
+看[README.md](./100/README.md)
 
 ## 200-要求
 
@@ -32,7 +32,7 @@ See [README.md](./100/README.md)
 
 ## 300-构建我们的应用程序
 
-See [README.md](./300/README.md)
+看[README.md](./300/README.md)
 
 ## 400-结论
 
