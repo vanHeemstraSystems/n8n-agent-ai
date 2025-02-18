@@ -6,7 +6,7 @@ In [Airtable](https://airtable.com), An Idea field is filled with a prompt and a
 
 ![Image](https://github.com/user-attachments/assets/ee52220f-d1b7-4dbf-9af1-9eeed931b460)
 
-In [Make](https://make.com), then a Webhook is triggered by the form and a Large Language Model (LLM) categorizes what the prompt is asking for: "Search Query: using Perplexity", "Image Creation: using ...", or "Other: using Anthropic Claude".
+In [Make](https://make.com), then a Webhook is triggered by the form and a Large Language Model (LLM) categorizes what the prompt is asking for: "Search Query: using Perplexity", "Image Creation: using OpenAI", or "Other: using Anthropic Claude".
 
 ![Image](https://github.com/user-attachments/assets/635d3788-3676-456b-91c6-d2006cf9fd71)
 
