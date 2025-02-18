@@ -12,7 +12,7 @@ N8N-AI-AGENT-NAME
 -   [Imágenes](./IMAGES.md)
 -   [Nx](./NX.md)
 -   [Submario](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [Referencias](./REFERENCES.md)
 -   [Requisitos](./REQUIREMENTS.md)
 -   [Telemetría](./TELEMETRY.md)
 
@@ -22,7 +22,7 @@ Crear y actualizar registros en un avión a partir de una entrada de chat en un 
 
 Generado con[Ritro](https://app.rytr.me)
 
-## 100 - Introduction
+## 100 - Introducción
 
 Ver[README.md](./100/README.md)
 
