@@ -9,10 +9,10 @@ N8N-AI-AGENT-NAME
 -   [शब्दकोष](./GLOSSARY.md)
 -   [हैच](./HATCH.md)
 -   [मेजबान](./HOSTS.md)
--   [Images](./IMAGES.md)
+-   [इमेजिस](./IMAGES.md)
 -   [नोकदार](./NX.md)
 -   [सबमैन](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [संदर्भ](./REFERENCES.md)
 -   [आवश्यकताएं](./REQUIREMENTS.md)
 -   [टेलीमेटरी](./TELEMETRY.md)
 
@@ -20,7 +20,7 @@ N8N-AI-AGENT-NAME
 
 AI एजेंट के साथ N8N वर्कफ़्लो में एक चैट इनपुट से Airtable में रिकॉर्ड बनाएं और अपडेट करें।
 
-के साथ उत्पन्न[Rytr](https://app.rytr.me)
+के साथ उत्पन्न[रिट्र](https://app.rytr.me)
 
 ## 100 - परिचय
 
