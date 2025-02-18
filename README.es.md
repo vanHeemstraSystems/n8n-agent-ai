@@ -11,7 +11,7 @@ N8N-AI-AGENT-NAME
 -   [Anfitriones](./HOSTS.md)
 -   [Imágenes](./IMAGES.md)
 -   [Nx](./NX.md)
--   [Podman](./PODMAN.md)
+-   [Submario](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Requisitos](./REQUIREMENTS.md)
 -   [Telemetría](./TELEMETRY.md)
