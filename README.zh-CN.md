@@ -1,6 +1,6 @@
-repository-name
+n8n-ai-agent-name
 
-# 存储库名称
+# N8N AI代理
 
 > 板条
 
@@ -11,14 +11,14 @@ repository-name
 -   [主持人](./HOSTS.md)
 -   [图像](./IMAGES.md)
 -   [nx](./NX.md)
--   [Subman](./PODMAN.md)
+-   [Podman](./PODMAN.md)
 -   [参考](./REFERENCES.md)
 -   [要求](./REQUIREMENTS.md)
 -   [遥测](./TELEMETRY.md)
 
 **执行摘要**
 
-文本
+通过与AI代理在N8N工作流程中的聊天输入中创建和更新记录。
 
 生成[ritr](https://app.rytr.me)
 
