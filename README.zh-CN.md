@@ -16,7 +16,7 @@ n8n-ai-agent-name
 -   [要求](./REQUIREMENTS.md)
 -   [遥测](./TELEMETRY.md)
 
-**Executive Summary**
+**执行摘要**
 
 通过与AI代理在N8N工作流程中的聊天输入中创建和更新记录。
 
@@ -30,10 +30,10 @@ n8n-ai-agent-name
 
 看[README.md](./200/README.md)
 
-## 300-构建我们的应用程序
+## 300 - Building Our Application
 
 看[README.md](./300/README.md)
 
 ## 400-结论
 
-See [README.md](./400/README.md)
+看[README.md](./400/README.md)
