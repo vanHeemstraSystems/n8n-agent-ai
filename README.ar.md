@@ -6,9 +6,9 @@
 
 -   [DNS](./DNS.md)
 -   [الوثائق](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
--   [فتحة](./HATCH.md)
--   [المضيفين](./HOSTS.md)
+-   [مسرد](./GLOSSARY.md)
+-   [Hatch](./HATCH.md)
+-   [Hosts](./HOSTS.md)
 -   [الصور](./IMAGES.md)
 -   [NX](./NX.md)
 -   [رجل فرعي](./PODMAN.md)
