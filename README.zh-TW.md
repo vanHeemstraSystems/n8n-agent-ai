@@ -1,6 +1,6 @@
-repository-name
+n8n-ai-agent-name
 
-# Repository Name
+# N8N AI代理
 
 > 板條
 
@@ -16,9 +16,9 @@ repository-name
 -   [要求](./REQUIREMENTS.md)
 -   [遙測](./TELEMETRY.md)
 
-**Executive Summary**
+**執行摘要**
 
-文字
+通過與AI代理在N8N工作流程中的聊天輸入中創建和更新記錄。
 
 生成[ritr](https://app.rytr.me)
 
@@ -34,6 +34,6 @@ repository-name
 
 看[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400-結論
 
 看[README.md](./400/README.md)
