@@ -2,7 +2,7 @@ N8N-AI-AGENT-NAME
 
 # N8N AI एजेंट
 
-> Slugline
+> स्लगलाइन
 
 -   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
