@@ -5,9 +5,9 @@ N8N-AAI-AAGENT-NAME
 > Slugline
 
 -   [DNS](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [الوثائق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
--   [Hatch](./HATCH.md)
+-   [فتحة](./HATCH.md)
 -   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
 -   [NX](./NX.md)
