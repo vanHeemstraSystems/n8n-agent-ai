@@ -1,6 +1,6 @@
-n8n-ai-agent-name
+N8N-AI-Agent-Name
 
-# n8n AI Agent
+# N8N AI Agent
 
 > Slugline
 
@@ -18,7 +18,7 @@ n8n-ai-agent-name
 
 **Zusammenfassung**
 
-Create and update records in an Airtable from a Chat input in an n8n workflow with an AI Agent.
+Erstellen und aktualisieren Sie Datensätze in einem Airtable aus einem Chat -Eingang in einem N8N -Workflow mit einem AI -Agenten.
 
 Erzeugt mit[Ritr](https://app.rytr.me)
 
