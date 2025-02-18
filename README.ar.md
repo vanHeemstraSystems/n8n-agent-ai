@@ -14,13 +14,13 @@ N8N-AAI-AAGENT-NAME
 -   [رجل فرعي](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
 -   [متطلبات](./REQUIREMENTS.md)
--   [القياس عن بعد](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **ملخص تنفيذي**
 
-قم بإنشاء وتحديث السجلات في Airtable من إدخال الدردشة في سير عمل N8N مع وكيل AI.
+Create and update records in an Airtable from a Chat input in an n8n workflow with an AI Agent.
 
-Generated with [ريتر](https://app.rytr.me)
+ولدت مع[ريتر](https://app.rytr.me)
 
 ## 100 - مقدمة
 
