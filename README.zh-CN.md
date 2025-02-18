@@ -10,10 +10,10 @@ repository-name
 -   [孵化](./HATCH.md)
 -   [主持人](./HOSTS.md)
 -   [图像](./IMAGES.md)
--   [Nx](./NX.md)
--   [Podman](./PODMAN.md)
+-   [nx](./NX.md)
+-   [Subman](./PODMAN.md)
 -   [参考](./REFERENCES.md)
--   [要求](./REQUIREMENTS.md)
+-   [Requirements](./REQUIREMENTS.md)
 -   [遥测](./TELEMETRY.md)
 
 **执行摘要**
