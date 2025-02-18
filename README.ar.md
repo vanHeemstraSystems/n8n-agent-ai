@@ -24,7 +24,7 @@ N8N-AAI-AAGENT-NAME
 
 ## 100 - مقدمة
 
-يرى[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - المتطلبات
 
