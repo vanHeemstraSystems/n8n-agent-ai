@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+n8n-ai-agent-name
+# n8n AI Agent
 
 > Slugline
 
@@ -17,7 +17,7 @@ repository-name
 
 **Executive Summary**
 
-Text
+Create and update records in an Airtable from a Chat input in an n8n workflow with an AI Agent.
 
 Generated with [Rytr](https://app.rytr.me)
 
