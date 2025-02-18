@@ -2,11 +2,11 @@
 
 ![Image](https://github.com/user-attachments/assets/b49627f4-aa28-424e-9eb1-528a106154d4)
 
-In [Airtable](https://airtable.com), A "prompt" field is filled and an input is chosen in a Form:
+In [Airtable](https://airtable.com), A ... field is filled with a prompt and an Input Type (here: LLM) is chosen in a Form:
 
 ![Image](https://github.com/user-attachments/assets/ee52220f-d1b7-4dbf-9af1-9eeed931b460)
 
-In [Make](httsp://make.com), then a Webhook is triggered by the form and a Lareg Language Model (LLM) categorizes what the prompt is asking for: "Search Query", "Create Image", or "Anthropic Claude">
+In [Make](httsp://make.com), then a Webhook is triggered by the form and a Large Language Model (LLM) categorizes what the prompt is asking for: "Search Query", "Create Image", or "Anthropic Claude">
 
 ![Image](https://github.com/user-attachments/assets/635d3788-3676-456b-91c6-d2006cf9fd71)
 
