@@ -9,8 +9,8 @@ n8n-ai-agent-name
 -   [詞彙表](./GLOSSARY.md)
 -   [孵化](./HATCH.md)
 -   [主持人](./HOSTS.md)
--   [Images](./IMAGES.md)
--   [nx](./NX.md)
+-   [圖像](./IMAGES.md)
+-   [Nx](./NX.md)
 -   [Subman](./PODMAN.md)
 -   [參考](./REFERENCES.md)
 -   [要求](./REQUIREMENTS.md)
@@ -26,7 +26,7 @@ n8n-ai-agent-name
 
 看[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200-要求
 
 看[README.md](./200/README.md)
 
