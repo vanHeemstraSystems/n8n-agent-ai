@@ -2,10 +2,10 @@ n8n-ai-agent-name
 
 # N8N AI代理
 
-> Slugline
+> 板條
 
 -   [DNS](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
 -   [孵化](./HATCH.md)
 -   [主持人](./HOSTS.md)
@@ -18,7 +18,7 @@ n8n-ai-agent-name
 
 **執行摘要**
 
-Create and update records in an Airtable from a Chat input in an n8n workflow with an AI Agent.
+通過與AI代理在N8N工作流程中的聊天輸入中創建和更新記錄。
 
 生成[ritr](https://app.rytr.me)
 
@@ -36,4 +36,4 @@ Create and update records in an Airtable from a Chat input in an n8n workflow wi
 
 ## 400-結論
 
-See [README.md](./400/README.md)
+看[README.md](./400/README.md)
