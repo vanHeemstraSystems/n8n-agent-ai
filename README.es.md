@@ -18,7 +18,7 @@ N8N-AI-AGENT-NAME
 
 **Resumen ejecutivo**
 
-Crear y actualizar registros en un avión a partir de una entrada de chat en un flujo de trabajo N8N con un agente de IA.
+Create and update records in an Airtable from a Chat input in an n8n workflow with an AI Agent.
 
 Generado con[Ritro](https://app.rytr.me)
 
