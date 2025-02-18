@@ -1,6 +1,6 @@
 N8N-AI-AGENT-NAME
 
-# n8n AI Agent
+# Agente de AI N8N
 
 > Línea de babosa
 
@@ -12,7 +12,7 @@ N8N-AI-AGENT-NAME
 -   [Imágenes](./IMAGES.md)
 -   [Nx](./NX.md)
 -   [Submario](./PODMAN.md)
--   [Referencias](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [Requisitos](./REQUIREMENTS.md)
 -   [Telemetría](./TELEMETRY.md)
 
@@ -22,7 +22,7 @@ Crear y actualizar registros en un avión a partir de una entrada de chat en un 
 
 Generado con[Ritro](https://app.rytr.me)
 
-## 100 - Introducción
+## 100 - Introduction
 
 Ver[README.md](./100/README.md)
 
