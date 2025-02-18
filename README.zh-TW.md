@@ -13,7 +13,7 @@ n8n-ai-agent-name
 -   [nx](./NX.md)
 -   [Subman](./PODMAN.md)
 -   [參考](./REFERENCES.md)
--   [要求](./REQUIREMENTS.md)
+-   [Requirements](./REQUIREMENTS.md)
 -   [遙測](./TELEMETRY.md)
 
 **執行摘要**
