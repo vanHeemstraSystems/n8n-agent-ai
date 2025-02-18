@@ -1,8 +1,8 @@
-repository-naam
+N8n-ai-agent-naam
 
-# Repository -naam
+# N8n ai agent
 
-> Sluglijn
+> Slugline
 
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
@@ -18,7 +18,7 @@ repository-naam
 
 **Uitvoerende samenvatting**
 
-Text
+Create and update records in an Airtable from a Chat input in an n8n workflow with an AI Agent.
 
 Gegenereerd met[Ritr](https://app.rytr.me)
 
