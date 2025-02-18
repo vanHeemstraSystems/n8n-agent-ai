@@ -18,7 +18,7 @@ N8N-AAI-AAGENT-NAME
 
 **ملخص تنفيذي**
 
-قم بإنشاء وتحديث السجلات في Airtable من إدخال الدردشة في سير عمل N8N مع وكيل AI.
+Create and update records in an Airtable from a Chat input in an n8n workflow with an AI Agent.
 
 ولدت مع[ريتر](https://app.rytr.me)
 
