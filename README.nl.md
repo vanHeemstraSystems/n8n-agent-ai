@@ -20,7 +20,7 @@ N8n-ai-agent-naam
 
 Maak records in een Airtable van een chat -invoer in een N8N -workflow met een AI -agent.
 
-Generated with [Ritr](https://app.rytr.me)
+Gegenereerd met[Ritr](https://app.rytr.me)
 
 ## 100 - Inleiding
 
