@@ -6,13 +6,13 @@ repository-name
 
 -   [DNS](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [詞彙表](./GLOSSARY.md)
 -   [孵化](./HATCH.md)
 -   [主持人](./HOSTS.md)
--   [Images](./IMAGES.md)
+-   [圖像](./IMAGES.md)
 -   [nx](./NX.md)
--   [Podman](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [Subman](./PODMAN.md)
+-   [參考](./REFERENCES.md)
 -   [要求](./REQUIREMENTS.md)
 -   [遙測](./TELEMETRY.md)
 
