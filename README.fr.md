@@ -1,6 +1,6 @@
-nom de référentiel
+n8n-ai-agent-name
 
-# Nom de référentiel
+# n8n AI Agent
 
 > Lisc
 
@@ -18,7 +18,7 @@ nom de référentiel
 
 **Résumé exécutif**
 
-Texte
+Créer et mettre à jour des enregistrements dans un Airtable à partir d'une entrée de chat dans un flux de travail N8N avec un agent AI.
 
 Généré avec[Ritr](https://app.rytr.me)
 
