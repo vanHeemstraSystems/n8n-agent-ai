@@ -34,4 +34,8 @@ See [README.md](./400/README.md)
 
 See [README.md](./500/README.md)
 
+## 600 - Creating a predefined n8n Workflow
+
+See [README.md](./600/README.md)
+
 MORE ...
