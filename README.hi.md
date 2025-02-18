@@ -1,13 +1,13 @@
 N8N-AI-AGENT-NAME
 
-# n8n AI Agent
+# N8N AI एजेंट
 
 > स्लगलाइन
 
 -   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
--   [Hatch](./HATCH.md)
+-   [हैच](./HATCH.md)
 -   [मेजबान](./HOSTS.md)
 -   [इमेजिस](./IMAGES.md)
 -   [नोकदार](./NX.md)
@@ -20,13 +20,13 @@ N8N-AI-AGENT-NAME
 
 AI एजेंट के साथ N8N वर्कफ़्लो में एक चैट इनपुट से Airtable में रिकॉर्ड बनाएं और अपडेट करें।
 
-के साथ उत्पन्न[Rytr](https://app.rytr.me)
+के साथ उत्पन्न[रिट्र](https://app.rytr.me)
 
 ## 100 - परिचय
 
 देखना[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - आवश्यकताएँ
 
 देखना[README.md](./200/README.md)
 
